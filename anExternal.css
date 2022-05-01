@@ -1,0 +1,96 @@
+body{
+    background-image: url('45degreee_fabric.webp');
+}
+
+a {
+    color: #000000;
+    font-weight: bold; 
+    font-size: 24px;
+}
+
+div {
+    background-color: orange; 
+    border-radius: 25px;
+}
+
+p {
+    font-family: "Arial";
+    color: #000000;
+    font-weight: bold; 
+
+}
+
+h3 {
+    font-size: 40px;
+    font-family: "Passion One";
+    color: blue;
+    margin-bottom: 0px;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+li {
+
+}
+
+#Header {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+    text-align: center;
+}
+
+#Header h1 {
+    font-size: 60px;
+    font-family: "Passion One";
+    color: blue;
+    font-weight: bold; 
+    text-decoration: underline overline;
+}
+
+#LeftNav {
+    float: left;
+    border-radius: 25px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+    text-align: center;
+    padding-bottom: 8px;
+}
+
+#LeftNav img {
+}
+
+#LeftNav ul {
+
+
+}
+
+#LeftNav h3 {
+}
+
+#Content {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+#Footer {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+    text-align: center;
+}
